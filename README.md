@@ -1,1 +1,3 @@
-To-Do list app
+To-Do list app.
+--------------
+Lista de cosas para hacer.
